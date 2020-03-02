@@ -5,8 +5,8 @@
 
 because spl_autoload_register is extremely old, it works correctly under Windows. An external autoloader class is required to work correctly under a Linux environment
 
-All data is only for logged users
-There have Admin/user roles
+Only for logged users has access to data.
+There have Admin/User roles
 
 User can:
 	- View book
