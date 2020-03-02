@@ -1,0 +1,3 @@
+dsn = 'mysql:host=localhost;dbname=library'
+user = 'root'
+password = ''

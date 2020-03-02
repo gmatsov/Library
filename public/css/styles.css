@@ -1,0 +1,26 @@
+body {
+    background-color: #aec6cf;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+body #wrapper {
+    background-color: #f5fdff;
+
+    min-height: 100vh;
+}
+
+body nav {
+    border-bottom: 10px solid #aec6cf;
+}
+
+body #edit_cover img {
+    max-width: 400px;
+}
+
+body #book_cover img {
+    max-width: 800px;
+}
+
+
+
